@@ -3,7 +3,7 @@
 A deep learning spam classifier using LSTM neural network trained on a balanced email dataset.
 
 ## Results
-- **Test Accuracy: XX%**
+- **Test Accuracy: 94%**
 - Balanced dataset (equal spam/ham samples via downsampling)
 - Early stopping to prevent overfitting
 
